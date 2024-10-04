@@ -12,9 +12,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 
 		log.debug("Mi mensaje debug");
-		log.info("Mi mensaje info");
-		log.warn("Mi mensaje warn");
-		log.error("Mi mensaje error");
 
 	}
 
